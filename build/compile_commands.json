@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/s0mas/andrew/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++2a -o CMakeFiles/Bitstream.dir/main.cpp.o -c /home/s0mas/andrew/main.cpp",
+  "file": "/home/s0mas/andrew/main.cpp"
+},
+
+{
+  "directory": "/home/s0mas/andrew/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++2a -o CMakeFiles/Bitstream.dir/Bitstream.cpp.o -c /home/s0mas/andrew/Bitstream.cpp",
+  "file": "/home/s0mas/andrew/Bitstream.cpp"
+}
+]
